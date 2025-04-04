@@ -1,0 +1,10 @@
+C:\Users\maine\source\repos\tutaev-students\tutaev-students\obj\Debug\tutaev-students.csproj.AssemblyReference.cache
+C:\Users\maine\source\repos\tutaev-students\tutaev-students\obj\Debug\tutaev_students.Properties.Resources.resources
+C:\Users\maine\source\repos\tutaev-students\tutaev-students\obj\Debug\tutaev-students.csproj.GenerateResource.cache
+C:\Users\maine\source\repos\tutaev-students\tutaev-students\obj\Debug\tutaev-students.csproj.CoreCompileInputs.cache
+C:\Users\maine\source\repos\tutaev-students\tutaev-students\obj\Debug\tutaev_students.MainForm.resources
+C:\Users\maine\source\repos\tutaev-students\tutaev-students\bin\Debug\tutaev-students.exe.config
+C:\Users\maine\source\repos\tutaev-students\tutaev-students\bin\Debug\tutaev-students.exe
+C:\Users\maine\source\repos\tutaev-students\tutaev-students\bin\Debug\tutaev-students.pdb
+C:\Users\maine\source\repos\tutaev-students\tutaev-students\obj\Debug\tutaev-students.exe
+C:\Users\maine\source\repos\tutaev-students\tutaev-students\obj\Debug\tutaev-students.pdb
